@@ -1,0 +1,11 @@
+---
+attend:
+  path: "/home/sadiq-sons/Dropbox/code/php/attend"
+  branch: maker
+fitter:
+  path: "/home/sadiq-sons/Dropbox/code/php/fitter" 
+  branch: fitter
+sms-fitter:
+  path: "/home/sadiq-sons/Dropbox/code/php/sms/fitter"
+  branch: fitter
+
